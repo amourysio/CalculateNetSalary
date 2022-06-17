@@ -1,0 +1,14 @@
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\obj\Debug\netcoreapp3.1\CalculateNetSalary.csproj.AssemblyReference.cache
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\obj\Debug\netcoreapp3.1\CalculateNetSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\obj\Debug\netcoreapp3.1\CalculateNetSalary.AssemblyInfoInputs.cache
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\obj\Debug\netcoreapp3.1\CalculateNetSalary.AssemblyInfo.cs
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\obj\Debug\netcoreapp3.1\CalculateNetSalary.csproj.CoreCompileInputs.cache
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\bin\Debug\netcoreapp3.1\CalculateNetSalary.exe
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\bin\Debug\netcoreapp3.1\CalculateNetSalary.deps.json
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\bin\Debug\netcoreapp3.1\CalculateNetSalary.runtimeconfig.json
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\bin\Debug\netcoreapp3.1\CalculateNetSalary.runtimeconfig.dev.json
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\bin\Debug\netcoreapp3.1\CalculateNetSalary.dll
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\bin\Debug\netcoreapp3.1\CalculateNetSalary.pdb
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\obj\Debug\netcoreapp3.1\CalculateNetSalary.dll
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\obj\Debug\netcoreapp3.1\CalculateNetSalary.pdb
+C:\Users\AllBlacks\source\repos\CalculateNetSalary\CalculateNetSalary\obj\Debug\netcoreapp3.1\CalculateNetSalary.genruntimeconfig.cache
