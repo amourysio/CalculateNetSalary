@@ -1,4 +1,4 @@
-# Inensia-Technical-Task2
+# CalculateNetSalary
 
 Create a console application that would calculate and output the net salary given the gross value as input. The taxation rules in the country of Imaginaria as of date are as follows:
 1.)	There is no taxation for any amount lower or equal to 1000 Imagiaria Dolars (IDR).
